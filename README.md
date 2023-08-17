@@ -1,8 +1,3 @@
-![Untitled 20](https://github.com/berkcicekk/Learning-SQL/assets/90208101/4812ad2d-ab18-412f-81c6-e6147eeabba4)
-![Uploading Untitled 23.png…]()
-![Untitled 12](https://github.com/berkcicekk/Learning-SQL/assets/90208101/9d6c9f9b-fef9-42b9-a5c9-3ab4df888e42)
-![Uploading Untitled 11.png…]()
-![Uploading Untitled 10.png…]()
 ## Veritabanı nedir?
 
 Veritabanı, kolayca erişilebilecek, geri alınabilecek, yönetilebilecek ve güncellenebilecek şekilde depolanan ilgili bilgilerin sistematik veya organize bir koleksiyonudur
